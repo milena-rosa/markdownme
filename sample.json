@@ -1,0 +1,922 @@
+{
+  "inquiry": {
+    "id": "586",
+    "status": "COMPLETE",
+    "reviewStatus": "NO_REVIEW",
+    "portfolioMonitoring": true,
+    "globalSearch": false,
+    "tracking": "P-t6WVddnudKKyOzfKJUk8",
+    "gridPersonPartyInfo": {
+      "attribute": [],
+      "gridPersonData": {
+        "gridContact": {
+          "addr": {
+            "addr1": "367 Formosa Street, ",
+            "city": "São Paulo",
+            "stateProv": "SP",
+            "postalCode": "01049-907",
+            "countryCode": {
+              "countryCodeValue": "BR"
+            }
+          },
+          "addresses": []
+        },
+        "personName": {
+          "fullName": "Fernando Henrique Cardoso"
+        }
+      },
+      "birthDt": "1931-06-18"
+    },
+    "alerts": [],
+    "portfolioMonitoringActionIfDuplicate": "REPLACE",
+    "searchActionIfDuplicate": "SEARCH_UNLESS_SEARCHED"
+  },
+  "alerts": [
+    {
+      "gridAlertId": "995994690.586",
+      "gridAlertInfo": {
+        "gridInquiryRec": {
+          "gridInquiryId": "586",
+          "gridInquiryInfo": {
+            "portfolioMonitoring": true,
+            "globalSearch": false,
+            "tracking": "P-t6WVddnudKKyOzfKJUk8",
+            "gridPersonPartyInfo": {
+              "attribute": [],
+              "gridPersonData": {
+                "gridContact": {
+                  "addr": {
+                    "addr1": "367 Formosa Street, ",
+                    "city": "São Paulo",
+                    "stateProv": "SP",
+                    "postalCode": "01049-907",
+                    "countryCode": {
+                      "countryCodeValue": "BR"
+                    }
+                  },
+                  "addresses": []
+                },
+                "personName": {
+                  "fullName": "Fernando Henrique Cardoso"
+                }
+              },
+              "birthDt": "1931-06-18"
+            }
+          },
+          "gridInquiryStatus": {
+            "gridInquiryStatusCode": "COMPLETE"
+          }
+        },
+        "alerts": {
+          "alertDt": "2025-01-27T15:17:44",
+          "alertEntity": [],
+          "nonReviewedAlertEntity": [
+            {
+              "matchScore": 97,
+              "riskScore": 90,
+              "cvip": "C",
+              "entityId": 173457645,
+              "entityTyp": "P",
+              "entityName": "Fernando Henrique Cardoso",
+              "source": {
+                "sourceName": "RiskConnect",
+                "sourceURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=906c3d365ed54ddb7b0d54d45213b770",
+                "entityDt": "2022-08-16"
+              },
+              "event": [
+                {
+                  "category": {
+                    "categoryCode": "PEP",
+                    "categoryDesc": "Person Political"
+                  },
+                  "eventDesc": "On List [PEP Connect - Brazil]",
+                  "eventDt": "2022-08-16",
+                  "subCategory": {
+                    "categoryCode": "ASC",
+                    "categoryDesc": "Associated with, Seen with"
+                  },
+                  "source": {
+                    "sourceName": "PEP Connect - Brazil",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#pep-connect",
+                    "entityDt": "2023-08-28",
+                    "format": "PEP_Connect"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "This entity appears on the Federal Prosecutor's Office Press releases. The former presidents Luiz Inácio Lula da Silva, Fernando Henrique Cardoso, Fernando Collor de Mello, and Itamar Franco are under investigation for possible misappropriation of public goods, in connection with gifts received in official visits from other statespeople.",
+                  "eventDt": "2018-05-11",
+                  "subCategory": {
+                    "categoryCode": "PRB",
+                    "categoryDesc": "Probe"
+                  },
+                  "source": {
+                    "sourceName": "Brazil Federal Prosecutors Office (MPF) - Press Releases",
+                    "sourceURL": "http://www.mpf.mp.br/sala-de-imprensa/noticias",
+                    "entityDt": "2023-07-12",
+                    "format": "Web"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "Buenosairesherald.com listed an article on 14 January 2016, re: 3 Brazilian presidents Fernando Henrique Cardoso, Luiz Ignácio Lula da Silva, and Fernando Collor de Mello were under investigation for allegedly being involved in the corruption scheme involving Petrobras.",
+                  "eventDt": "2016-01-14",
+                  "subCategory": {
+                    "categoryCode": "PRB",
+                    "categoryDesc": "Probe"
+                  },
+                  "source": {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://www.buenosairesherald.com/article/206692/brazil-graft-allegations-reach-3-expresidents",
+                    "entityDt": "2023-09-06",
+                    "format": "Web"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "FRD",
+                    "categoryDesc": "Fraud, Scams, Swindles"
+                  },
+                  "eventDesc": "Accused of fraud",
+                  "eventDt": "2006-01-31",
+                  "subCategory": {
+                    "categoryCode": "ACC",
+                    "categoryDesc": "Accuse"
+                  },
+                  "source": {
+                    "sourceName": "Factiva Article - LBA0000020060131e21v00253",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=LBA0000020060131e21v00253",
+                    "entityDt": "2006-01-31",
+                    "format": "Media",
+                    "headline": "Brazil Senate seeks indictment of bankers over fraud",
+                    "publicationSource": "Reuters News",
+                    "publisher": "Reuters Ltd.",
+                    "sourceKy": "7ee0d8d2f431a2db"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "accusations of corruption, mostly against the president.",
+                  "eventDt": "2001-05-23",
+                  "subCategory": {
+                    "categoryCode": "ACC",
+                    "categoryDesc": "Accuse"
+                  },
+                  "source": {
+                    "sourceName": "Factiva Article - wefe000020010713dx5n00d4n",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=wefe000020010713dx5n00d4n",
+                    "entityDt": "2001-05-23",
+                    "format": "Media",
+                    "headline": "BRAZIL-CORRUPTION CARDOSO: \"DEMOCRACY MAY NOT WITHSTAND\" WAVE OF\nACCUSATIONS",
+                    "publicationSource": "EFE News Service",
+                    "publisher": "EFE News Service",
+                    "sourceKy": "dd645aece62c6641"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "G1.globo.com listed an article on 18 April 2017, re: former directors and people related to construction company Odebrecht mentioned several politicians in their plea deal testimony, referring to the payment of bribes and illegal donations made by the company.",
+                  "eventDt": "2017-04-18",
+                  "subCategory": {
+                    "categoryCode": "SPT",
+                    "categoryDesc": "Suspected"
+                  },
+                  "source": {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://especiais.g1.globo.com/politica/2017/lava-jato/delacao-da-odebrecht/",
+                    "entityDt": "2023-09-06",
+                    "format": "Web"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "G1.globo.com listed an article on 13 April 2017, re: Michel Temer, Dilma Rousseff, Luiz Inácio Lula da Silva, Fernando Henrique Cardoso, Fernando Collor, José Sarney, Eunício Oliveira, Rodrigo Maia, Aécio Neves, Eliseu Padilha, Wellington Moreira Franco, Bruno Araújo, Aloysio Nunes Ferreira, Gilberto Kassab, Marcos Antônio Pereira, Blairo Maggi and Helder Barbalho were cited on plea deal testimonies of executives of Odebrecht for the corruption scheme involving Petrobras.",
+                  "eventDt": "2017-04-13",
+                  "subCategory": {
+                    "categoryCode": "SPT",
+                    "categoryDesc": "Suspected"
+                  },
+                  "source": {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-veja-as-suspeitas-levantadas-sobre-os-principais-politicos.ghtml",
+                    "entityDt": "2023-09-06",
+                    "format": "Web"
+                  }
+                }
+              ],
+              "postAddr": [
+                {
+                  "addr1": "Avenida L2 Sul, Quadra 607 Metropolis Building, Coverage 2",
+                  "city": "Brasilia",
+                  "stateProv": "Distrito Federal",
+                  "postalCode": "70200670",
+                  "countryCode": {
+                    "countryCodeValue": "BR"
+                  }
+                },
+                {
+                  "locatorTyp": "BIRTH",
+                  "city": "Rio de Janeiro",
+                  "stateProv": "Rio de Janeiro",
+                  "countryCode": {
+                    "countryCodeValue": "BR"
+                  }
+                },
+                {
+                  "city": "Brasilia",
+                  "stateProv": "Distrito Federal",
+                  "countryCode": {
+                    "countryCodeValue": "BR"
+                  }
+                }
+              ],
+              "birthDt": ["1931-06-18"],
+              "attribute": [
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://www.buenosairesherald.com/article/206692/brazil-graft-allegations-reach-3-expresidents"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://especiais.g1.globo.com/politica/2017/lava-jato/delacao-da-odebrecht/"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-veja-as-suspeitas-levantadas-sobre-os-principais-politicos.ghtml"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://www.wikidata.org/entity/Q230578"
+                },
+                {
+                  "attCode": "IMG",
+                  "attDesc": "Image URL",
+                  "attVal": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Henrique%20Cardoso%20%281999%29.jpg"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://www.mpf.mp.br/pgr/noticias-pgr/investigacao-de-ex-presidentes-da-republica-por-apropriacao-de-presentes-recebidos-durante-os-mandatos-deve-prosseguir-decide-mpf"
+                },
+                {
+                  "attCode": "PTY",
+                  "attDesc": "PEP Type",
+                  "attVal": "REG:L1"
+                },
+                {
+                  "attCode": "PTY",
+                  "attDesc": "PEP Type",
+                  "attVal": "LEG:L2"
+                },
+                {
+                  "attCode": "PTY",
+                  "attDesc": "PEP Type",
+                  "attVal": "HOS:L1"
+                },
+                {
+                  "attCode": "PTY",
+                  "attDesc": "PEP Type",
+                  "attVal": "CAB:L1"
+                },
+                {
+                  "attCode": "IMG",
+                  "attDesc": "Image URL",
+                  "attVal": "http://library.brown.edu/collections/skidmore/portraits/images/fernandoHenriqueCardoso.jpg"
+                },
+                {
+                  "attCode": "SEX",
+                  "attDesc": "Sex",
+                  "attVal": "Male"
+                },
+                {
+                  "attCode": "RID",
+                  "attDesc": "Riskid",
+                  "attVal": "R12929520"
+                },
+                {
+                  "attCode": "RGP",
+                  "attDesc": "Riskography",
+                  "attVal": "Fernando Henrique Cardoso is a former President of Brazil. According to public media sources, he was accused of corruption and harboring corrupt officials in 2001. He was also accused of doing nothing to clamp down on corruption in his government."
+                },
+                {
+                  "attCode": "PRT",
+                  "attDesc": "PEP Rating",
+                  "attVal": "D:07/27/2016"
+                },
+                {
+                  "attCode": "PRT",
+                  "attDesc": "PEP Rating",
+                  "attVal": "C:06/06/2014"
+                }
+              ],
+              "sysId": "906c3d365ed54ddb7b0d54d45213b770",
+              "rdcURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=906c3d365ed54ddb7b0d54d45213b770",
+              "alias": [],
+              "sources": {
+                "source": [
+                  {
+                    "sourceName": "PEP Connect - Brazil",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#pep-connect",
+                    "headline": "PEP Connect - Brazil"
+                  },
+                  {
+                    "sourceName": "Reuters News",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=LBA0000020060131e21v00253",
+                    "headline": "MEDIA Article,Headline:Brazil Senate seeks indictment of bankers over fraud"
+                  },
+                  {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#global-online-media",
+                    "headline": "Global Online Media (Portuguese Media)"
+                  },
+                  {
+                    "sourceName": "Brazil Federal Prosecutors Office (MPF) - Press Releases",
+                    "sourceURL": "http://www.mpf.mp.br/sala-de-imprensa/noticias",
+                    "headline": "Brazil Federal Prosecutors Office (MPF) - Press Releases"
+                  },
+                  {
+                    "sourceName": "EFE News Service",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=wefe000020010713dx5n00d4n",
+                    "headline": "MEDIA Article,United States,Headline:BRAZIL-CORRUPTION CARDOSO: \"DEMOCRACY MAY NOT WITHSTAND\" WAVE OF\nACCUSATIONS"
+                  },
+                  {
+                    "sourceName": "PEP Wikidata Attributes",
+                    "sourceURL": "http://www.wikidata.org/",
+                    "headline": "PEP Wikidata Attributes"
+                  },
+                  {
+                    "sourceName": "Reuters News",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=lba0000020010713dx3105j6q",
+                    "headline": "MEDIA Article,United Kingdom,Headline:Brazil politics heat up as Carnival party ends."
+                  },
+                  {
+                    "sourceName": "Reuters News",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=lba0000020010713dx4202unn",
+                    "headline": "MEDIA Article,United Kingdom,Headline:Brazil's Cardoso creates public ethics office."
+                  },
+                  {
+                    "sourceName": "AFP World News",
+                    "headline": "MEDIA Article,Headline:Brazil's mega corruption scandal: what we know"
+                  },
+                  {
+                    "sourceName": "PSDB Partido da Social Democracia Brasileira, Executiva Nacional",
+                    "sourceURL": "https://www2.psdb.org.br/interna/quemequem.php",
+                    "headline": "This document provides location (country) and position of Fernando Henrique Cardoso \n"
+                  },
+                  {
+                    "sourceName": "Presidentes e Vice Presidentes do Brasil, Perfil - Fernando Henrique Cardoso",
+                    "sourceURL": "http://www.dec.ufcg.edu.br/biografias/PBFHCa.html",
+                    "headline": "This document provides date of birth, birth address and positions of Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Presidentes e Vice Presidentes do Brasil",
+                    "sourceURL": "http://www.dec.ufcg.edu.br/biografias/RolPreBR.html",
+                    "headline": "This document provides position of Fernando Henrique Cardoso\n"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/leonidas-fernandes-cardoso",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.terra.com.br/istoegente/04/reportagens/rep_fhc.htm",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www.psdb.org.br/quem-e-quem/fernando-henrique-cardoso",
+                    "headline": "This document provides the address and complete name and position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www.thedialogue.org/experts/fernando-henrique-cardoso/",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://pt.wikipedia.org/wiki/Fernando_Henrique_Cardoso",
+                    "headline": "This document provides the birth address and date of birth and position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.dec.ufcg.edu.br/biografias/PBFHCa.html",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.terra.com.br/istoegente/98/reportagem/beatriz_cardoso.htm",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.cartacapital.com.br/revista/895/negocios-de-familia",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www.academia.org.br/academicos/fernando-henrique-cardoso/biografia",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www2.psdb.org.br/interna/quemequem.php",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://istoe.com.br/347003_A+NOVA+MULHER+DE+FHC/",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://library.brown.edu/collections/skidmore/portraits/fernandoHenriqueCardoso.html",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://novosalic.cultura.gov.br/cidadao/dados-projeto?idPronac=501eac548e7d4fa987034573abc6e179MTgzNjg0ZUA3NWVmUiEzNDUwb3RT",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www.gazetadopovo.com.br/vida-publica/filha-de-fhc-e-assessora-de-senador-mas-trabalha-em-casa-bi0rgh524tgwy5ypu2us1qp8u/",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://in.reuters.com/article/uk-brazil-politics/brazilian-former-first-lady-ruth-cardoso-dies-idUKN2439247120080625",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "https://www.psdb.org.br/conheca/quem-e-quem/membros-da-executiva",
+                    "headline": "This document provides the position for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Brazil",
+                    "sourceURL": "http://www.ac24horas.com/2014/06/04/bittar-recebe-apoio-de-fhc-na-disputa-pelo-governo-do-acre/",
+                    "headline": "This document provides the relationship for Fernando Henrique Cardoso"
+                  },
+                  {
+                    "sourceName": "Image Url",
+                    "sourceURL": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Henrique%20Cardoso%20%281999%29.jpg",
+                    "headline": "Image Url"
+                  },
+                  {
+                    "sourceName": "Image Url",
+                    "sourceURL": "http://library.brown.edu/collections/skidmore/portraits/images/fernandoHenriqueCardoso.jpg",
+                    "headline": "Image Url"
+                  },
+                  {
+                    "sourceName": "PEP Connect - Brazil",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#pep-connect",
+                    "format": "PEP_Connect"
+                  },
+                  {
+                    "sourceName": "Brazil Federal Prosecutors Office (MPF) - Press Releases",
+                    "sourceURL": "http://www.mpf.mp.br/sala-de-imprensa/noticias",
+                    "format": "Web"
+                  },
+                  {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://www.buenosairesherald.com/article/206692/brazil-graft-allegations-reach-3-expresidents",
+                    "format": "Web"
+                  },
+                  {
+                    "sourceName": "Factiva Article - LBA0000020060131e21v00253",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=LBA0000020060131e21v00253",
+                    "format": "Media",
+                    "headline": "Brazil Senate seeks indictment of bankers over fraud",
+                    "publicationSource": "Reuters News",
+                    "publisher": "Reuters Ltd.",
+                    "sourceKy": "7ee0d8d2f431a2db"
+                  },
+                  {
+                    "sourceName": "Factiva Article - wefe000020010713dx5n00d4n",
+                    "sourceURL": "http://global.factiva.com/en/du/article.asp?NAPC=S&AccessionNo=wefe000020010713dx5n00d4n",
+                    "format": "Media",
+                    "headline": "BRAZIL-CORRUPTION CARDOSO: \"DEMOCRACY MAY NOT WITHSTAND\" WAVE OF\nACCUSATIONS",
+                    "publicationSource": "EFE News Service",
+                    "publisher": "EFE News Service",
+                    "sourceKy": "dd645aece62c6641"
+                  },
+                  {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://especiais.g1.globo.com/politica/2017/lava-jato/delacao-da-odebrecht/",
+                    "format": "Web"
+                  },
+                  {
+                    "sourceName": "Global Online Media (Portuguese Media)",
+                    "sourceURL": "http://g1.globo.com/politica/operacao-lava-jato/noticia/delacao-da-odebrecht-veja-as-suspeitas-levantadas-sobre-os-principais-politicos.ghtml",
+                    "format": "Web"
+                  }
+                ]
+              },
+              "fullPositions": {
+                "fullPosition": [
+                  {
+                    "position": "Founder - Brazilian Social Democratic Party (PSDB), The Federative Republic of Brazil",
+                    "fromDate": "-/-/1988"
+                  },
+                  {
+                    "position": "Chairman - Brazilian Center for Analysis and Planning (CEBRAP), The Federative Republic of Brazil",
+                    "fromDate": "-/-/1983"
+                  },
+                  {
+                    "position": "Director - Brazilian Center for Analysis and Planning (CEBRAP), The Federative Republic of Brazil",
+                    "fromDate": "-/-/1980",
+                    "toDate": "-/-/1982"
+                  },
+                  {
+                    "position": "Member - Brazilian Democratic Movement (Movimento Democratico Brasileiro) (MDB), The Federative Republic of Brazil",
+                    "fromDate": "-/-/1978"
+                  },
+                  {
+                    "position": "Brazilian senator"
+                  },
+                  {
+                    "position": "Deputy Director - Latin American Economic and Social Planning, The Federative Republic of Brazil"
+                  },
+                  {
+                    "position": "Former president"
+                  },
+                  {
+                    "position": "Minister of Finance of Brazil"
+                  },
+                  {
+                    "position": "President - Brazilian Social Democracy Party (Partido da Social Democracia Brasileira, PSDB), The Federative Republic of Brazil"
+                  },
+                  {
+                    "position": "President of Brazil"
+                  }
+                ]
+              },
+              "pepTypes": {
+                "pepType": [
+                  {
+                    "type": "CAB",
+                    "level": 1,
+                    "position": "Minister - Ministry of Finance, The Federative Republic of Brazil",
+                    "fromDate": "-/-/1993",
+                    "toDate": "-/-/1994"
+                  },
+                  {
+                    "type": "CAB",
+                    "level": 1,
+                    "position": "Minister - Ministry of Foreign Affairs, The Federative Republic of Brazil",
+                    "fromDate": "-/-/1992",
+                    "toDate": "-/-/1993"
+                  },
+                  {
+                    "type": "HOS",
+                    "level": 1,
+                    "position": "President - Government of the Federative Republic of Brazil",
+                    "fromDate": "1/1/1995",
+                    "toDate": "1/1/2003"
+                  },
+                  {
+                    "type": "LEG",
+                    "level": 2,
+                    "position": "Senator - Senate, National Congress of the Federative Republic of Brazil",
+                    "fromDate": "3/15/1983",
+                    "toDate": "5/20/1993"
+                  },
+                  {
+                    "type": "REG",
+                    "level": 1,
+                    "position": "Governor - Government of Sao Paulo, The Federative Republic of Brazil"
+                  }
+                ]
+              },
+              "rels": {
+                "rel": [
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "WIFE",
+                    "sysId": "18cfde3b7bf16f2d887529c24da2e8f8",
+                    "entityName": "Ruth Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "DAUGHTER",
+                    "sysId": "540fb1adbbbdca1d807068483484fb42",
+                    "entityName": "Beatriz Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "MOTHER",
+                    "sysId": "e2a55dde2570333d24cc7c5d2db6a913",
+                    "entityName": "Nayde Silva Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "GRANDDAUGHTER",
+                    "sysId": "e2a55dde2570333d0914e508159681f8",
+                    "entityName": "Julia Cardoso Zylberstajn"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "GRANDDAUGHTER",
+                    "sysId": "e2a55dde2570333dd52c32714daf91cb",
+                    "entityName": "Helena Cardoso Pinto"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "GRANDDAUGHTER",
+                    "sysId": "e2a55dde2570333dcf242a016016466d",
+                    "entityName": "Joana Cardoso Pinto"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "SON",
+                    "sysId": "e2a55dde2570333d03f01604e2d539bf",
+                    "entityName": "Paulo Henrique Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "FATHER",
+                    "sysId": "e2a55dde2570333d7b0d54d45213b770",
+                    "entityName": "Leonidas Fernandes Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "WIFE",
+                    "sysId": "e2a55dde2570333dcb388b875f920597",
+                    "entityName": "Patricia Kundrat"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "GRANDSON",
+                    "sysId": "1fd421b2f5263d3103f01604e2d539bf",
+                    "entityName": "Pedro Cardoso Zylberstajn"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "DAUGHTER",
+                    "sysId": "1fd421b2f5263d317b0d54d45213b770",
+                    "entityName": "Luciana Cardoso"
+                  },
+                  {
+                    "relDir": "FROM",
+                    "relTyp": "GRANDDAUGHTER",
+                    "sysId": "1fd421b2f5263d31cb388b875f920597",
+                    "entityName": "Isabel Cardoso Vaz"
+                  }
+                ]
+              },
+              "identification": [
+                {
+                  "idNumber": "P407801979",
+                  "idType": "BvD UCI"
+                },
+                {
+                  "idNumber": "P377932336",
+                  "idType": "BvD UCI"
+                }
+              ]
+            },
+            {
+              "matchScore": 96,
+              "riskScore": 75,
+              "cvip": "C",
+              "entityId": 201452143,
+              "entityTyp": "P",
+              "entityName": "Henrique Cardoso",
+              "source": {
+                "sourceName": "RiskConnect",
+                "sourceURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=0d94487bb1b83375cf242a016016466d",
+                "entityDt": "2017-05-18"
+              },
+              "event": [
+                {
+                  "category": {
+                    "categoryCode": "BRB",
+                    "categoryDesc": "Bribery, Graft, Kickbacks, Political Corruption"
+                  },
+                  "eventDesc": "Rosarioplus.com listed an article on 18 May 2017, re: Senator Aécio Neves and deputy Rodrigo Rocha Loures,  former adviser to President Michel Temer, were removed from there roles and investigated after being filmed requesting bribes from the Brazilian refrigeration company JBS S. A., and its owner Joesley Batista, a party involved in Lava Jato scandal that collaborated with police. Properties belonging to Fernando Henrique Cardoso were also raided.",
+                  "eventDt": "2017-05-18",
+                  "subCategory": {
+                    "categoryCode": "ASC",
+                    "categoryDesc": "Associated with, Seen with"
+                  },
+                  "source": {
+                    "sourceName": "Global Online Media (Spanish Media)",
+                    "sourceURL": "http://www.rosarioplus.com/ensacoycorbata/La-Corte-suspendio-al-senador-que-fue-filmado-pidiendo-sobornos-20170518-0016.html",
+                    "entityDt": "2024-01-31",
+                    "format": "Web"
+                  }
+                }
+              ],
+              "postAddr": [
+                {
+                  "countryCode": {
+                    "countryCodeValue": "BR"
+                  }
+                }
+              ],
+              "birthDt": [],
+              "attribute": [
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "http://www.rosarioplus.com/ensacoycorbata/La-Corte-suspendio-al-senador-que-fue-filmado-pidiendo-sobornos-20170518-0016.html"
+                },
+                {
+                  "attCode": "SEX",
+                  "attDesc": "Sex",
+                  "attVal": "M"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "https://www.rosarioplus.com/ensacoycorbata/La-Corte-suspendio-al-senador-que-fue-filmado-pidiendo-sobornos-20170518-0016.html"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "https://www.wilsoncenter.org/blog-post/former-president-brazil-fernando-henrique-cardoso-reaffirms-support-for-lava-jato"
+                },
+                {
+                  "attCode": "RID",
+                  "attDesc": "Riskid",
+                  "attVal": "R117771969"
+                }
+              ],
+              "sysId": "0d94487bb1b83375cf242a016016466d",
+              "rdcURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=0d94487bb1b83375cf242a016016466d",
+              "alias": [
+                {
+                  "aliasTyp": "AKA",
+                  "aliasName": "Fernando Henrique Cardoso",
+                  "bestMatch": true
+                }
+              ],
+              "sources": {
+                "source": [
+                  {
+                    "sourceName": "Global Online Media (Spanish Media)",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#global-online-media",
+                    "headline": "Global Online Media (Spanish Media)"
+                  },
+                  {
+                    "sourceName": "Supplemental Profile Information",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#supplemental-profile-information",
+                    "headline": "Supplemental Profile Information"
+                  },
+                  {
+                    "sourceName": "Supplemental Profile Information- EU",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#supplemental-profile-information",
+                    "headline": "Supplemental Profile Information- EU"
+                  },
+                  {
+                    "sourceName": "Supplemental Profile Information -US",
+                    "sourceURL": "https://www.moodys.com/web/en/us/kyc/products/grid/grid-dataset-descriptions.html/#supplemental-profile-information",
+                    "headline": "Supplemental Profile Information -US"
+                  },
+                  {
+                    "sourceName": "Global Online Media (Spanish Media)",
+                    "sourceURL": "http://www.rosarioplus.com/ensacoycorbata/La-Corte-suspendio-al-senador-que-fue-filmado-pidiendo-sobornos-20170518-0016.html",
+                    "format": "Web"
+                  }
+                ]
+              },
+              "identification": []
+            },
+            {
+              "matchScore": 95,
+              "riskScore": 75,
+              "cvip": "C",
+              "entityId": 201078895,
+              "entityTyp": "P",
+              "entityName": "FERNANDO CARDOSO",
+              "source": {
+                "sourceName": "RiskConnect",
+                "sourceURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=4efe1be69df9a0c67b0d54d45213b770",
+                "entityDt": "2020-07-01"
+              },
+              "event": [
+                {
+                  "category": {
+                    "categoryCode": "REG",
+                    "categoryDesc": "Regulatory Action"
+                  },
+                  "eventDesc": "This entity appears on the Brazil - Registration of Federal Administration Expulsions (CEAF) Penalty list. Penalty imposed: DISMISSAL. Sanctioning body: National Institute Of Social Insurance",
+                  "eventDt": "2020-07-01",
+                  "subCategory": {
+                    "categoryCode": "ACT",
+                    "categoryDesc": "Disciplinary, Regulatory Action"
+                  },
+                  "source": {
+                    "sourceName": "Brazil Federal Administration Expulsion Registry (CEAF) - Penalties",
+                    "sourceURL": "https://portaldatransparencia.gov.br/sancoes/consulta?ordenarPor=nomeSancionado&direcao=asc",
+                    "entityDt": "2024-03-04",
+                    "format": "Web"
+                  }
+                },
+                {
+                  "category": {
+                    "categoryCode": "REG",
+                    "categoryDesc": "Regulatory Action"
+                  },
+                  "eventDesc": "This entity appears on the Brazil - Registration of Federal Administration Expulsions (CEAF) Penalty list. Penalty imposed: DISMISSAL. Sanctioning body: Social Security Agency - A - Joinville Centro",
+                  "eventDt": "2018-11-22",
+                  "subCategory": {
+                    "categoryCode": "ACT",
+                    "categoryDesc": "Disciplinary, Regulatory Action"
+                  },
+                  "source": {
+                    "sourceName": "Brazil Federal Administration Expulsion Registry (CEAF) - Penalties",
+                    "sourceURL": "https://portaldatransparencia.gov.br/sancoes/consulta?ordenarPor=nomeSancionado&direcao=asc",
+                    "entityDt": "2024-03-04",
+                    "format": "Web"
+                  }
+                }
+              ],
+              "postAddr": [
+                {
+                  "countryCode": {
+                    "countryCodeValue": "BR"
+                  }
+                }
+              ],
+              "birthDt": [],
+              "attribute": [
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "https://portaldatransparencia.gov.br/sancoes/consulta/188618"
+                },
+                {
+                  "attCode": "URL",
+                  "attDesc": "Entity URL",
+                  "attVal": "https://portaldatransparencia.gov.br/sancoes/consulta/182144"
+                },
+                {
+                  "attCode": "RID",
+                  "attDesc": "Riskid",
+                  "attVal": "R124581375"
+                },
+                {
+                  "attCode": "RMK",
+                  "attDesc": "Remark",
+                  "attVal": "Process number: 35239000740201874"
+                },
+                {
+                  "attCode": "RMK",
+                  "attDesc": "Remark",
+                  "attVal": "Process number: 35351000077201811"
+                }
+              ],
+              "sysId": "4efe1be69df9a0c67b0d54d45213b770",
+              "rdcURL": "https://grid.rdc.eu.com/wss/entity.html?entityId=4efe1be69df9a0c67b0d54d45213b770",
+              "alias": [],
+              "sources": {
+                "source": [
+                  {
+                    "sourceName": "Brazil Federal Administration Expulsion Registry (CEAF) - Penalties",
+                    "sourceURL": "https://portaldatransparencia.gov.br/sancoes/consulta?ordenarPor=nomeSancionado&direcao=asc",
+                    "headline": "Brazil Federal Administration Expulsion Registry (CEAF) - Penalties"
+                  },
+                  {
+                    "sourceName": "Brazil Federal Administration Expulsion Registry (CEAF) - Penalties",
+                    "sourceURL": "https://portaldatransparencia.gov.br/sancoes/consulta?ordenarPor=nomeSancionado&direcao=asc",
+                    "format": "Web"
+                  }
+                ]
+              },
+              "identification": []
+            }
+          ],
+          "clientDecisionedAlertEntity": [],
+          "alertIlistEntry": [],
+          "clientDecisionedAlertIlistEntry": [],
+          "nonReviewedAlertIlistEntry": []
+        },
+        "clientDecisioningNote": []
+      },
+      "gridAlertStatus": {
+        "gridAlertStatusCode": "COMPLETE"
+      }
+    }
+  ]
+}
