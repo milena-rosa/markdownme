@@ -1,6 +1,6 @@
-# xlsme
+# markdownme
 
-`xlsme` is a simple Node.js utility that converts a JSON file into a Markdown-formatted table. It traverses the structure of a given JSON file and outputs a table where each row represents a key path and its value.
+`markdownme` is a simple Node.js utility that converts a JSON file into a Markdown-formatted table. It traverses the structure of a given JSON file and outputs a table where each row represents a key path and its value.
 
 ## Features
 
